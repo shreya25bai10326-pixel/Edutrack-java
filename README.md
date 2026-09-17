@@ -51,12 +51,12 @@ The file contains:
 
 ### Example
 
-| Roll No | Name  | Age | Course                 | Marks | Attendance |
-| ------- | ----- | --: | ---------------------- | ----: | ---------: |
-| 101     | Aarav |  19 | Computer Science       |    88 |         92 |
-| 102     | Riya  |  20 | Information Technology |    76 |         84 |
-| 103     | Karan |  19 | Computer Science       |    91 |         96 |
-
+| Roll No | Name    | Age | Course                 | Marks | Attendance |
+| ------- | -----   | --: | ---------------------- | ----: | ---------: |
+| 101     | Alice   |  20 | Computer Science       |    88 |         95 |
+| 102     | Bob     |  21 | Information Technology |    76 |         90 |
+| 103     | Charlie |  19 | Electronics            |    92 |         98 |
+| 104     | Diana   |  20 | Computer Science       |    85 |         93 |
 ---
 
 ## 🔄 Methodology
